@@ -5,3 +5,4 @@ test the change sure effective!
 creating a new branch is quick and simple
 add merge
 查看普通合并和fast forward模式的区别
+as if i have corrected the bug!
